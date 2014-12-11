@@ -8,7 +8,7 @@ examples
 ========
 
 CloudAtCost
-
+```
 CPU model :  Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz
 Number of cores : 4
 CPU frequency :  2266.747 MHz
@@ -24,10 +24,10 @@ Testing Network IO to RamNode Seatle (USA): 3.19MB/s
 Testing Network IO to RamNode Netherlands (NL): 1.19MB/s
 Testing Network IO to Linode Tokyo (JP): 134KB/s
 Testing Network IO to Softlayer Singapore (SG): 935KB/s
-
+```
 
 CloudAtCost
-
+```
 CPU model :  Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz
 Number of cores : 4
 CPU frequency :  2266.747 MHz
@@ -43,10 +43,10 @@ Testing Network IO to RamNode Seatle (USA): 1.24MB/s
 Testing Network IO to RamNode Netherlands (NL): 1.59MB/s
 Testing Network IO to Linode Tokyo (JP): 549KB/s
 Testing Network IO to Softlayer Singapore (SG): 1.32MB/s
-
+```
 
 GreenValueHost
-
+```
 CPU model :  Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
 Number of cores : 4
 CPU frequency :  2400.026 MHz
@@ -62,10 +62,10 @@ Testing Network IO to RamNode Seatle (USA): 10.9MB/s
 Testing Network IO to RamNode Netherlands (NL): 94.6MB/s
 Testing Network IO to Linode Tokyo (JP): 3.91MB/s
 Testing Network IO to Softlayer Singapore (SG): 6.12MB/s
-
+```
 
 GreenValueHost
-
+```
 CPU model :  Intel(R) Xeon(R) CPU E3-1240 v3 @ 3.40GHz
 Number of cores : 4
 CPU frequency :  3399.984 MHz
@@ -81,10 +81,10 @@ Testing Network IO to RamNode Seatle (USA): 1.45MB/s
 Testing Network IO to RamNode Netherlands (NL): 19.5MB/s
 Testing Network IO to Linode Tokyo (JP): 2.84MB/s
 Testing Network IO to Softlayer Singapore (SG): 8.14MB/s
-
+```
 
 BlueVM
-
+```
 CPU model :  QEMU Virtual CPU version 1.5.0
 Number of cores : 2
 CPU frequency :  2099.998 MHz
@@ -100,3 +100,4 @@ Testing Network IO to RamNode Seatle (USA): 7.97MB/s
 Testing Network IO to RamNode Netherlands (NL): 1.76MB/s
 Testing Network IO to Linode Tokyo (JP): 2.10MB/s
 Testing Network IO to Softlayer Singapore (SG): 1.29MB/s
+```

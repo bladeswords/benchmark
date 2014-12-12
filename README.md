@@ -101,3 +101,21 @@ Testing Network IO to RamNode Netherlands (NL): 1.76MB/s
 Testing Network IO to Linode Tokyo (JP): 2.10MB/s
 Testing Network IO to Softlayer Singapore (SG): 1.29MB/s
 ```
+
+BlueVM
+```
+CPU model :  Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz
+Number of cores : 4 CPU frequency :  3491.992 MHz 
+Total amount of ram : 2048 MB 
+Total amount of swap : 2048 MB
+System uptime :   3 days, 23:02,
+System version: Debian GNU/Linux 7 \n \l 
+System kernel: Linux bluey 2.6.32-042stab093.5 #1 SMP Wed Sep 10 17:39:49 MSK 2014 x86_64 GNU/Linux
+I/O speed :  167 MB/s
+Testing Network IO to RamNode New York City (USA): 1.53MB/s 
+Testing Network IO to RamNode Atlanta (USA): 1.30MB/s 
+Testing Network IO to RamNode Seatle (USA): 1.86MB/s 
+Testing Network IO to RamNode Netherlands (NL): 739KB/s 
+Testing Network IO to Linode Tokyo (JP): 1.46MB/s 
+Testing Network IO to Softlayer Singapore (SG): 652KB/s
+```

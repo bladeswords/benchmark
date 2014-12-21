@@ -119,3 +119,22 @@ Testing Network IO to RamNode Netherlands (NL): 739KB/s
 Testing Network IO to Linode Tokyo (JP): 1.46MB/s 
 Testing Network IO to Softlayer Singapore (SG): 652KB/s
 ```
+
+Linode
+```
+CPU model :  Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
+Number of cores : 1
+CPU frequency :  2800.060 MHz
+Total amount of ram : 991 MB
+Total amount of swap : 255 MB
+System uptime :   46 days, 17:27,
+System version: Ubuntu 14.10 \n \l
+System kernel: Linux localhost 3.17.2-x86_64-linode48 #1 SMP Mon Nov 3 13:26:05 EST 2014 x86_64 x86_64 x86_64 GNU/Linux
+I/O speed :  613 MB/s
+Testing Network IO to RamNode New York City (USA): 5.37MB/s
+Testing Network IO to RamNode Atlanta (USA): 7.97MB/s
+Testing Network IO to RamNode Seatle (USA): 7.07MB/s
+Testing Network IO to RamNode Netherlands (NL): 5.38MB/s
+Testing Network IO to Linode Tokyo (JP): 57.5MB/s
+Testing Network IO to Softlayer Singapore (SG): 16.9MB/s
+```

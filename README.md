@@ -7,7 +7,7 @@ Linux VPS/server benchmark script
 examples
 ========
 
-CloudAtCost
+CloudAtCost (Toronto)
 ```
 CPU model :  Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz
 Number of cores : 4
@@ -26,7 +26,7 @@ Testing Network IO to Linode Tokyo (JP): 134KB/s
 Testing Network IO to Softlayer Singapore (SG): 935KB/s
 ```
 
-CloudAtCost
+CloudAtCost (Toronto)
 ```
 CPU model :  Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz
 Number of cores : 4
@@ -45,7 +45,7 @@ Testing Network IO to Linode Tokyo (JP): 549KB/s
 Testing Network IO to Softlayer Singapore (SG): 1.32MB/s
 ```
 
-GreenValueHost
+GreenValueHost (Netherlands)
 ```
 CPU model :  Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
 Number of cores : 4
@@ -64,7 +64,7 @@ Testing Network IO to Linode Tokyo (JP): 3.91MB/s
 Testing Network IO to Softlayer Singapore (SG): 6.12MB/s
 ```
 
-GreenValueHost
+GreenValueHost (New York)
 ```
 CPU model :  Intel(R) Xeon(R) CPU E3-1240 v3 @ 3.40GHz
 Number of cores : 4
@@ -83,7 +83,7 @@ Testing Network IO to Linode Tokyo (JP): 2.84MB/s
 Testing Network IO to Softlayer Singapore (SG): 8.14MB/s
 ```
 
-BlueVM
+BlueVM (Los Angles)
 ```
 CPU model :  QEMU Virtual CPU version 1.5.0
 Number of cores : 2
@@ -102,7 +102,7 @@ Testing Network IO to Linode Tokyo (JP): 2.10MB/s
 Testing Network IO to Softlayer Singapore (SG): 1.29MB/s
 ```
 
-BlueVM
+BlueVM (Los Angles)
 ```
 CPU model :  Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz
 Number of cores : 4 CPU frequency :  3491.992 MHz 
@@ -120,7 +120,7 @@ Testing Network IO to Linode Tokyo (JP): 1.46MB/s
 Testing Network IO to Softlayer Singapore (SG): 652KB/s
 ```
 
-Linode
+Linode (Tokyo)
 ```
 CPU model :  Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 Number of cores : 1
@@ -137,4 +137,23 @@ Testing Network IO to RamNode Seatle (USA): 7.07MB/s
 Testing Network IO to RamNode Netherlands (NL): 5.38MB/s
 Testing Network IO to Linode Tokyo (JP): 57.5MB/s
 Testing Network IO to Softlayer Singapore (SG): 16.9MB/s
+```
+
+Low End Spirit (Sydney)
+```
+CPU model :  Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz
+Number of cores : 1
+CPU frequency :  3301.000 MHz
+Total amount of ram : 128 MB
+Total amount of swap : 0 MB
+System uptime :   43 min,
+System version: Debian GNU/Linux 7 \n \l
+System kernel: Linux les 2.6.32-042stab094.8 #1 SMP Tue Dec 16 20:36:56 MSK 2014 x86_64 GNU/Linux
+I/O speed :  641 MB/s
+Testing Network IO to RamNode New York City (USA): 2.76MB/s
+Testing Network IO to RamNode Atlanta (USA): 3.08MB/s
+Testing Network IO to RamNode Seatle (USA): 2.54MB/s
+Testing Network IO to RamNode Netherlands (NL): 1.63MB/s
+Testing Network IO to Linode Tokyo (JP): 7.39MB/s
+Testing Network IO to Softlayer Singapore (SG): 1.29MB/s
 ```

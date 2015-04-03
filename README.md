@@ -7,7 +7,28 @@ Linux VPS/server benchmark script
 examples
 ========
 
-CloudAtCost (Toronto)
+Leaseweb (Netherlands) - dedicated
+```
+CPU model :  Intel(R) Pentium(R) CPU G850 @ 2.90GHz
+Number of cores : 2
+CPU frequency :  2893.539 MHz
+Total amount of ram : 3923 MB
+Total amount of swap : 3904 MB
+System uptime :   207 days, 19:41,
+System version: Debian GNU/Linux 7 \n \l
+System kernel: Linux amber 3.2.0-4-amd64 #1 SMP Debian 3.2.60-1+deb7u3 x86_64 GNU/Linux
+I/O speed :  116 MB/s
+Testing Network IO to RamNode New York City (USA): 16.2MB/s
+Testing Network IO to RamNode Atlanta (USA): 12.2MB/s
+Testing Network IO to RamNode Seatle (USA): 9.35MB/s
+Testing Network IO to RamNode Los Angeles (USA): 9.85MB/s
+Testing Network IO to RamNode Netherlands (NL): 107MB/s
+Testing Network IO to Linode Tokyo (JP): 3.54MB/s
+Testing Network IO to Softlayer Singapore (SG): 4.20MB/s
+Testing Network IO to Internode Australia (AU): 3.83MB/s
+```
+
+CloudAtCost (Toronto) - vmware
 ```
 CPU model :  Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz
 Number of cores : 4
@@ -26,7 +47,7 @@ Testing Network IO to Linode Tokyo (JP): 134KB/s
 Testing Network IO to Softlayer Singapore (SG): 935KB/s
 ```
 
-CloudAtCost (Toronto)
+CloudAtCost (Toronto) - vmware
 ```
 CPU model :  Intel(R) Xeon(R) CPU           L5520  @ 2.27GHz
 Number of cores : 4
@@ -45,7 +66,7 @@ Testing Network IO to Linode Tokyo (JP): 549KB/s
 Testing Network IO to Softlayer Singapore (SG): 1.32MB/s
 ```
 
-GreenValueHost (Netherlands)
+GreenValueHost (Netherlands) - openVZ
 ```
 CPU model :  Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
 Number of cores : 4
@@ -64,7 +85,7 @@ Testing Network IO to Linode Tokyo (JP): 3.91MB/s
 Testing Network IO to Softlayer Singapore (SG): 6.12MB/s
 ```
 
-GreenValueHost (New York)
+GreenValueHost (New York) - openVZ
 ```
 CPU model :  Intel(R) Xeon(R) CPU E3-1240 v3 @ 3.40GHz
 Number of cores : 4
@@ -83,7 +104,7 @@ Testing Network IO to Linode Tokyo (JP): 2.84MB/s
 Testing Network IO to Softlayer Singapore (SG): 8.14MB/s
 ```
 
-BlueVM (Los Angles)
+BlueVM (Los Angles) - KVM
 ```
 CPU model :  QEMU Virtual CPU version 1.5.0
 Number of cores : 2
@@ -102,7 +123,7 @@ Testing Network IO to Linode Tokyo (JP): 2.10MB/s
 Testing Network IO to Softlayer Singapore (SG): 1.29MB/s
 ```
 
-BlueVM (Los Angles)
+BlueVM (Los Angles) - KVM
 ```
 CPU model :  Intel(R) Xeon(R) CPU E3-1270 v3 @ 3.50GHz
 Number of cores : 4 CPU frequency :  3491.992 MHz 
@@ -120,7 +141,7 @@ Testing Network IO to Linode Tokyo (JP): 1.46MB/s
 Testing Network IO to Softlayer Singapore (SG): 652KB/s
 ```
 
-Linode (Tokyo)
+Linode (Tokyo) - Xen?
 ```
 CPU model :  Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz
 Number of cores : 1
@@ -139,7 +160,7 @@ Testing Network IO to Linode Tokyo (JP): 57.5MB/s
 Testing Network IO to Softlayer Singapore (SG): 16.9MB/s
 ```
 
-Low End Spirit (Sydney)
+Low End Spirit (Sydney) - openVZ
 ```
 CPU model :  Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz
 Number of cores : 1

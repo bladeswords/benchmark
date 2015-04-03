@@ -35,19 +35,23 @@ echo "I/O speed : $io"
 #echo $tf
 
 echo -n "Testing Network IO to RamNode New York City (USA): "
-speed=$( wget -O /dev/null http://lg.nyc.ramnode.com/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
+speed=$( wget -O /dev/null http://lg.nyc.ramnode.com/static/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
 echo $speed
 
 echo -n "Testing Network IO to RamNode Atlanta (USA): "
-speed=$( wget -O /dev/null http://lg.atl.ramnode.com/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
+speed=$( wget -O /dev/null http://lg.atl.ramnode.com/static/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
 echo $speed
 
 echo -n "Testing Network IO to RamNode Seatle (USA): "
-speed=$( wget -O /dev/null http://lg.sea.ramnode.com/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
+speed=$( wget -O /dev/null http://lg.sea.ramnode.com/static/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
+echo $speed
+
+echo -n "Testing Network IO to RamNode Los Angeles (USA): "
+speed=$( wget -O /dev/null http://lg.la.ramnode.com/static/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
 echo $speed
 
 echo -n "Testing Network IO to RamNode Netherlands (NL): "
-speed=$( wget -O /dev/null http://lg.nl.ramnode.com/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
+speed=$( wget -O /dev/null http://lg.nl.ramnode.com/static/100MB.test   2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
 echo $speed
 
 echo -n "Testing Network IO to Linode Tokyo (JP): "
@@ -56,4 +60,8 @@ echo $speed
 
 echo -n "Testing Network IO to Softlayer Singapore (SG): "
 speed=$( wget -O /dev/null http://speedtest.sng01.softlayer.com/downloads/test100.zip 2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
+echo $speed
+
+echo -n "Testing Network IO to Internode Australia (AU): "
+speed=$( wget -O /dev/null http://mirror.internode.on.net/pub/test/100meg.test 2>&1 | awk '/\/dev\/null/ {speed=$3 $4} END {gsub(/\(|\)/,"",speed); print speed}' )
 echo $speed

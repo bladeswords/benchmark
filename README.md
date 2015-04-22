@@ -7,6 +7,27 @@ Linux VPS/server benchmark script
 examples
 ========
 
+TheHoster (Indonesia, Asia)  OpenVZ 1024 50 Unmetered 1000
+```
+CPU model :  Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz
+Number of cores : 1
+CPU frequency :  2143.058 MHz
+Total amount of ram : 1024 MB
+Total amount of swap : 1024 MB
+System uptime :   20:16,       
+System version: Debian GNU/Linux 7 \n \l
+System kernel: Linux indoughnesia 2.6.32-042stab093.5 #1 SMP Wed Sep 10 17:39:49 MSK 2014 x86_64 GNU/Linux
+I/O speed :  47.7 MB/s
+Testing Network IO to RamNode New York City (USA): 93.4KB/s
+Testing Network IO to RamNode Atlanta (USA): 250KB/s
+Testing Network IO to RamNode Seatle (USA): 288KB/s
+Testing Network IO to RamNode Los Angeles (USA): 267KB/s
+Testing Network IO to RamNode Netherlands (NL): 296KB/s
+Testing Network IO to Linode Tokyo (JP): 339KB/s
+Testing Network IO to Softlayer Singapore (SG): 3.90MB/s
+Testing Network IO to Internode Australia (AU): 2.28MB/s
+```
+
 Leaseweb (Netherlands) - dedicated
 ```
 CPU model :  Intel(R) Pentium(R) CPU G850 @ 2.90GHz

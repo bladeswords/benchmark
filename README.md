@@ -16,7 +16,7 @@ Total amount of ram : 993 MB
 Total amount of swap : 1020 MB
 System uptime : 5 days, 04:36:23
 System version: Ubuntu 14.04.3 LTS \n \l
-System kernel: Linux 133-130-97-162 3.16.0-36-generic #48~14.04.1-Ubuntu SMP Wed Apr 15 13:11:28 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+System kernel: Linux 3.16.0-36-generic #48~14.04.1-Ubuntu SMP Wed Apr 15 13:11:28 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
 I/O speed :  660 MB/s
 Testing Network IO to RamNode New York City (USA): 14.4MB/s
 Testing Network IO to RamNode Atlanta (USA): 11.4MB/s
@@ -213,7 +213,7 @@ Total amount of ram : 991 MB
 Total amount of swap : 255 MB
 System uptime :   46 days, 17:27,
 System version: Ubuntu 14.10 \n \l
-System kernel: Linux localhost 3.17.2-x86_64-linode48 #1 SMP Mon Nov 3 13:26:05 EST 2014 x86_64 x86_64 x86_64 GNU/Linux
+System kernel: Linux 3.17.2-x86_64-linode48 #1 SMP Mon Nov 3 13:26:05 EST 2014 x86_64 x86_64 x86_64 GNU/Linux
 I/O speed :  613 MB/s
 Testing Network IO to RamNode New York City (USA): 5.37MB/s
 Testing Network IO to RamNode Atlanta (USA): 7.97MB/s
@@ -232,7 +232,7 @@ Total amount of ram : 128 MB
 Total amount of swap : 0 MB
 System uptime :   43 min,
 System version: Debian GNU/Linux 7 \n \l
-System kernel: Linux les 2.6.32-042stab094.8 #1 SMP Tue Dec 16 20:36:56 MSK 2014 x86_64 GNU/Linux
+System kernel: Linux 2.6.32-042stab094.8 #1 SMP Tue Dec 16 20:36:56 MSK 2014 x86_64 GNU/Linux
 I/O speed :  641 MB/s
 Testing Network IO to RamNode New York City (USA): 2.76MB/s
 Testing Network IO to RamNode Atlanta (USA): 3.08MB/s

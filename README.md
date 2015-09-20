@@ -7,6 +7,48 @@ Linux VPS/server benchmark script
 examples
 ========
 
+ConoHa (Tyokyo, Japan) OpenVZ SSD VPS 1GB 2xCPU
+```
+CPU model :  Intel(R) Xeon(R) CPU E5-2660 v3 @ 2.60GHz
+Number of cores : 2
+CPU frequency :  2599.996 MHz
+Total amount of ram : 993 MB
+Total amount of swap : 1020 MB
+System uptime : 5 days, 04:36:23
+System version: Ubuntu 14.04.3 LTS \n \l
+System kernel: Linux 133-130-97-162 3.16.0-36-generic #48~14.04.1-Ubuntu SMP Wed Apr 15 13:11:28 UTC 2015 x86_64 x86_64 x86_64 GNU/Linux
+I/O speed :  660 MB/s
+Testing Network IO to RamNode New York City (USA): 14.4MB/s
+Testing Network IO to RamNode Atlanta (USA): 11.4MB/s
+Testing Network IO to RamNode Seatle (USA): 11.7MB/s
+Testing Network IO to RamNode Los Angeles (USA): 10.9MB/s
+Testing Network IO to RamNode Netherlands (NL): 11.3MB/s
+Testing Network IO to Linode Tokyo (JP): 13.6MB/s
+Testing Network IO to Softlayer Singapore (SG): 11.2MB/s
+Testing Network IO to Internode Australia (AU): 9.46MB/s
+```
+
+HostHatch (Sydney, Australia) OpenVZ SSD VPS - Sydney, AU - VZ-SSD
+```
+CPU model :  Intel(R) Xeon(R) CPU E5-2620 v3 @ 2.40GHz
+Number of cores : 2
+CPU frequency :  959.739 MHz
+Total amount of ram : 512 MB
+Total amount of swap : 512 MB
+System uptime : 20 days, 07:27:48
+System version: Debian GNU/Linux 8 \n \l
+System kernel: Linux hammerhead 2.6.32-042stab108.8 #1 SMP Wed Jul 22 17:23:23 MSK 2015 x86_64 GNU/Linux
+I/O speed :  629 MB/s
+Testing Network IO to RamNode New York City (USA) 8:.27MB/s
+Testing Network IO to RamNode Atlanta (USA): 6.00MB/s
+Testing Network IO to RamNode Seatle (USA): 3.20MB/s
+Testing Network IO to RamNode Los Angeles (USA): 12.4MB/s
+Testing Network IO to RamNode Netherlands (NL): 187KB/s
+Testing Network IO to Linode Tokyo (JP): 13.7MB/s
+Testing Network IO to Softlayer Singapore (SG): 28.9MB/s
+Testing Network IO to Internode Australia (AU): 5.21MB/s
+```
+
 TheHoster (Indonesia, Asia)  OpenVZ 1024 50 Unmetered 1000
 ```
 CPU model :  Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz
